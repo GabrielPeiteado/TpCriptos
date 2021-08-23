@@ -13,7 +13,6 @@ export const NavBar = () => {
                 <NavDropdown.Item href="/tipos">Tipos de Criptomonedas</NavDropdown.Item>
                 <NavDropdown.Item href="/wallets">Hardware Wallets</NavDropdown.Item>
                 <NavDropdown.Item href="/minado">Minado de Criptomonedas</NavDropdown.Item>
-                <NavDropdown.Item href="/conclusion">Conclusión</NavDropdown.Item>
                 <NavDropdown.Divider />
             </NavDropdown>
             </Nav>

@@ -34,7 +34,6 @@ export const Home = () => {
           <li><h2><Link to='/tipos'>Tipos de Criptomonedas</Link></h2></li>
           <li><h2><Link to='/wallets'>Hardware Wallets</Link></h2></li>
           <li><h2><Link to='/minado'>Minado de Criptomonedas</Link></h2></li>
-          <li><h2><Link to='/conclusion'>Conclusión</Link></h2></li>
         </ul>
         </div>
     <div className='div2'>
