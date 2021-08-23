@@ -1,6 +1,5 @@
 import React from 'react';
 import NavBar from './NavBar.js';
-import Paginate from './Paginate.js';
 import Footer from './Footer.js';
 
 export const Wallets = () => {

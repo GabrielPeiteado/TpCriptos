@@ -1,7 +1,6 @@
 import React from 'react';
 import NavBar from './NavBar.js';
 import Footer from './Footer.js';
-import Paginate from './Paginate.js';
 import bitcoin from '../assets/Bitcoin-Logo.png';
 import xrp from '../assets/xrp-icon-freelogovectors.net_.png';
 import ethereum from '../assets/Ethereum-Logo.png';

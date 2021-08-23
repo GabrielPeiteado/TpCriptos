@@ -1,7 +1,6 @@
 import React from 'react';
 import NavBar from './NavBar.js';
 import {Link} from 'react-router-dom';
-import Footer from './Footer.js';
 
 export const Home = () => {
     return (
@@ -39,7 +38,7 @@ export const Home = () => {
         </ul>
         </div>
     <div className='div2'>
-      <img src="https://3.bp.blogspot.com/-ifuklFyTsk0/WnCYKAXEdiI/AAAAAAAAElk/LBQffs6n9zQr0LR2iK_EpRcMObOWcgtVACLcBGAs/s1600/kripto_para_birimleri_2.jpg" alt="image not found" />
+      <img src="https://3.bp.blogspot.com/-ifuklFyTsk0/WnCYKAXEdiI/AAAAAAAAElk/LBQffs6n9zQr0LR2iK_EpRcMObOWcgtVACLcBGAs/s1600/kripto_para_birimleri_2.jpg" alt="isadfad" />
 
       <h4> Vision General:</h4>
       <h5> Las Criptomonedas son un tipo de tecnología cuyo crecimiento aumenta exponencialmente.</h5>

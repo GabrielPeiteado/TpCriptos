@@ -1,6 +1,3 @@
-// import logo from './logo.svg';
-
-import {Nav, NavDropdown} from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Routes from './Route.js';
 
