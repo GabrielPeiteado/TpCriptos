@@ -1,0 +1,365 @@
+body{
+  background-image: url('https://static.vecteezy.com/system/resources/previews/001/836/095/non_2x/abstract-grey-white-background-poster-with-dynamic-waves-vector.jpg');
+  background-position: center;
+  background-size: cover;
+}
+.App {
+  /* text-align: left; */
+  width: 100%;
+  height: 100vh;
+  /* overflow: hidden; */
+}
+.mr-auto{
+  border-radius: 0px;
+  width: 100%;
+  height: 85px;
+  font-size: 2.5rem;
+  display: flex !important;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #343A40;
+}
+.dropdown-item{
+  margin: 5px;
+}
+.dropdown-item:hover{
+  padding: 20px ;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+a{
+  color: whitesmoke;
+  width: auto;
+}
+a:hover{
+  text-decoration: none;
+  color: whitesmoke;
+  
+}
+.hometp{
+  margin-left: 20px;
+}
+.desplegabletp{
+  margin-right: 20px;
+}
+.nav-link:hover{
+  font-size: 42px;
+}
+h1{
+  margin: 30px 40px;
+}
+span{
+  color: whitesmoke;
+  font-size: 3rem;
+}
+.ulInte{
+  margin: 0 50px;
+  display: flex;
+  flex-direction: column;
+  /* flex-wrap: wrap; */
+}
+.ulInte li h2 a:hover {
+  font-size: 35px;
+}
+.ulTitles{
+  margin-left: 20px;
+}
+
+.div1{
+  display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  width: 100%;
+
+}
+.div3{
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin: 50px 30px;
+  color: whitesmoke;
+  background-color:  rgba(0, 0, 0, 0.651);
+}
+.divWallets{
+  width: 45vw;
+  margin-top: 50px;
+  margin-left: 50px;
+  color: whitesmoke;
+  background-color:  rgba(0, 0, 0, 0.7);
+  padding: 40px;
+  margin-bottom: 50px;
+}
+.divWalletsP{
+  width: 35vw;
+  margin-top: 50px;
+  margin-left: 50px;
+  color: whitesmoke;
+  background-color:  rgba(0, 0, 0, 0.7);
+  padding: 40px;
+  margin-bottom: 50px;
+  /* height: 70rem; */
+}
+.divWallets2{
+  margin-top: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+  width: 45vw;
+  color: whitesmoke;
+  background-color:  rgba(0, 0, 0, 0.7);
+  padding: 40px;
+}
+.divWallets2P{
+  margin-top: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+  width: 55vw;
+  color: whitesmoke;
+  background-color:  rgba(0, 0, 0, 0.7);
+  padding: 40px;
+}
+.divWallets2 .pWall li{
+  margin-bottom: 40px;
+}
+.minadoPH{
+  margin-top: 2rem;
+  height: 20rem;
+  float: right;
+  margin-left: 30px;
+  margin-right: 20px;
+}
+.divWallets h2{
+  font-size: 40px;
+}
+.divWallets2 h2{
+  font-size: 40px;
+}
+.pWall{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 20px;
+  margin-right: 40px;
+}
+.wall{
+  display: flex;
+  justify-content: space-between;
+}
+.div3-1{
+  display: flex;
+  /* flex-wrap: wrap; */
+  flex-direction: column;
+  width: 50%;
+  margin: 50px 0;
+  color: whitesmoke;
+  background-color:  rgba(0, 0, 0, 0.651);
+
+}
+img{
+  /* margin-top: 60px; */
+  margin-bottom: 20px;
+  height: 25rem;
+  /* border-radius: 20px; */
+  object-fit: cover !important;
+}
+.div2{
+  color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  /* align-items: center; */
+  margin: 50px 30px;
+  /* width: 43.7%; */
+  background-color: rgba(0, 0, 0, 0.651);
+  /* border-radius: 20px; */
+}
+
+h4{
+  /* margin:20px; */
+  margin-top: 20px;
+  margin-left: 20px;
+  text-align: left;
+}
+h5{
+  margin:20px 20px 0 20px;
+  text-align: left;
+}
+ul{
+  margin-bottom: 50px;
+}
+li{
+  margin-top: 10px;
+}
+.historiaCripto{
+  margin-top: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+  width: 45vw;
+  padding: 40px;
+}
+.historiaCripto2{
+  margin-top: 150px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+  width: 45vw;
+  padding: 40px;
+}
+.historiaCripto p {
+  margin-left: 45px;
+  width: 80%;
+  font-size: 20px;
+  /* text-align: justify; */
+}
+.historiaCripto2 p {
+  margin-left: 45px;
+  width: 80%;
+  font-size: 20px;
+}
+.bitcoinPhHistoria{
+  margin-top: 2rem;
+  height: 20rem;
+  float: right;
+  margin-left: 30px;
+  margin-right: 20px;
+}
+.caracteristicasCripto{
+  color: #17181A ;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 5rem;
+}
+.photoCriptos1{
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 5rem 5rem 5rem 0;
+}
+.photoCriptos{
+  height: 40rem;
+}
+.ventajas{
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  /* align-items: center; */
+  margin: 3rem 0 0 5rem;
+}
+.ventajas h3 {
+  margin: 20px;
+}
+.ventajas h1 {
+  font-size: 70px;
+}
+.desventajas h1 {
+  font-size: 70px;
+}
+.desventajas h3 {
+  margin: 20px;
+}
+.desventajas{
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  /* align-items: center; */
+  margin: 3rem 5rem 0 0rem;
+}
+.titleDes{
+  display: flex;
+}
+.desPH{
+  height: 150px;
+}
+.divTipos{
+  display: flex;
+  flex-direction: column;
+}
+.divTipos h1 {
+  text-align: center;
+}
+.divTipos h2 {
+  margin: 3rem 0 0 5rem;
+}
+.pBit{
+  font-size: 25px;
+  /* width: 50%; */
+  width: 80%;
+}
+.Bitcoin{
+  width: 100%;
+  margin: 3rem 0 0 5rem;
+  border-bottom: 5px solid #343A40;
+}
+.BitcoinXRP{
+  /* width: 100%; */
+  margin: 3rem 0 0 5rem;
+  border-bottom: 5px solid #343A40;
+}
+.Bitcoin1{
+  margin: 3rem 0 0 5rem;
+  width: 80%;
+  /* border-bottom: 5px solid #343A40; */
+}
+.bitcoinPH{
+  /* margin: 5rem 10rem 0 0; */
+  height: 200px;
+  /* margin-top: 23%; */
+  /* margin-bottom: 5rem; */
+  margin-right: 0.5%;
+}
+.titleTipos{
+  text-align: center;
+}
+.criptosPH{
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+}
+.xrpPH{
+  height: 200px;
+  margin-right: 5%;
+}
+.ethPH{
+  height: 200px;
+  margin-right: 1%;
+}
+.litecoinPH{
+  /* margin-left: 17%; */
+  height: 200px;
+  margin-right: 5%;
+  /* margin-top: 17%; */
+}
+.footerGen{
+  background-color: #343A40;
+  height: 70px;
+  display: flex;
+  margin-top: 9px;
+  /* justify-content: center; */
+  /* align-items: center; */
+}
+.footer{
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.integrantesFooter{
+  font-size: 22px;
+  color: #f7eee9;
+}
+.logogabi{
+  height: 70px;
+}
+.developedBy{
+  display: flex;
+  width: 250px;
+  align-items: center;
+  font-size: 12px;
+  color: #f7eee9;
+  margin: 0;
+}
