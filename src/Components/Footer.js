@@ -10,7 +10,6 @@ export const Footer = () => {
             <div className='footer'>
                 <h1 className='integrantesFooter'>Peiteado, Gabriel</h1>
                 <h1 className='integrantesFooter'>De Giorgio, Luciano</h1>
-                <h1 className='integrantesFooter'>Villagra, Tomás</h1>
             </div>
         </div>
     )

@@ -14,7 +14,6 @@ export const Home = () => {
           <ul className='ulInte'>
             <li><h2>De Giorgio, Luciano</h2></li>
             <li><h2>Peiteado, Gabriel</h2></li>
-            <li><h2>Villagra, Tomás</h2></li>
           </ul>
         </div>
         <div>
