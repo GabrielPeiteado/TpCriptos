@@ -1,6 +1,5 @@
 import React from 'react';
 import NavBar from './NavBar.js';
-import Paginate from './Paginate.js';
 import desventajas from '../assets/desventajaas.png';
 import ventajas from '../assets/ventajas.png';
 import Footer from './Footer.js';
